@@ -4,7 +4,7 @@ const cors = require('cors');
 const axios = require('axios');
 
 const app = express();
-const port = 3000; // 使用3001端口避免与其他服务冲突
+const port = 3017; // 使用3001端口避免与其他服务冲突
 
 // 启用CORS和JSON中间件
 
